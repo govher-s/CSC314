@@ -5,6 +5,8 @@
 ;; This program displays my name,
 ;; and the show I binge watched last summer.
 
+;; Got 100 for this assignment. Works 100%
+
 
 .MODEL SMALL
 .586
