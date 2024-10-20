@@ -5,7 +5,7 @@
 ;; This program displays my name,
 ;; and the show I binge watched last summer.
 
-;; Got 100 for this assignment. Works 100%
+;; Assignment Grade 100
 
 
 .MODEL SMALL
