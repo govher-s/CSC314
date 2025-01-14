@@ -14,7 +14,7 @@
 ;;			DL = day (1 to 31)
 ;;			CX = year (4 digit number)
 ;;			AL = day of week (0 to 6)
-;; Assignment grade: 100
+;; 
 
 .MODEL SMALL
 .586
